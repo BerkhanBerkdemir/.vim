@@ -1,0 +1,21 @@
+[submodule "pack/berkhan/start/ansible-vim"]
+	path = pack/vendor/start/ansible-vim
+	url = https://github.com/pearofducks/ansible-vim.git
+[submodule "pack/berkhan/start/vim-airline"]
+	path = pack/vendor/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "pack/berkhan/start/vim-monokai"]
+	path = pack/vendor/start/vim-monokai
+	url = https://github.com/sickill/vim-monokai.git
+[submodule "pack/berkhan/start/typescript-vim"]
+	path = pack/vendor/start/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim.git
+[submodule "pack/berkhan/opt/nerdtree"]
+	path = pack/vendor/opt/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "pack/berkhan/start/nerdcommenter"]
+	path = pack/vendor/start/nerdcommenter
+	url = https://github.com/preservim/nerdcommenter.git
+[submodule "pack/vendor/start/vim-terraform"]
+	path = pack/vendor/start/vim-terraform
+	url = https://github.com/hashivim/vim-terraform.git
