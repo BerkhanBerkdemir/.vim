@@ -11,7 +11,7 @@
 	path = pack/vendor/start/typescript-vim
 	url = https://github.com/leafgarland/typescript-vim.git
 [submodule "pack/berkhan/opt/nerdtree"]
-	path = pack/vendor/opt/nerdtree
+	path = pack/vendor/start/nerdtree
 	url = https://github.com/preservim/nerdtree.git
 [submodule "pack/berkhan/start/nerdcommenter"]
 	path = pack/vendor/start/nerdcommenter
